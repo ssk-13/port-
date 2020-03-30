@@ -2,7 +2,8 @@
 
       html {
         height: 100%;
-        width: auto;
+        width: 100%;
+            overflow:none;
       }
 
       body {
@@ -12,7 +13,7 @@
         height: 100%;
         width: 100%;
         -webkit-font-smoothing: antialiased;
-        overflow: -moz-scrollbars-none;
+        overflow: none;
         -ms-overflow-style: none;
       }
 
